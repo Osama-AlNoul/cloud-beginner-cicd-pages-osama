@@ -10,7 +10,8 @@ Cloud Computing
 This project demonstrates a simple CI/CD pipeline using GitHub Actions and GitHub Pages.
 
 ## GitHub Pages
-(Add link after deployment)
+https://osama-alnoul.github.io/cloud-beginner-cicd-pages-osama/
 
 ## Run locally
+
 Open index.html in a browser.
